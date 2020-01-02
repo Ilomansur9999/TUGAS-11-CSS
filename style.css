@@ -1,0 +1,53 @@
+div.menu {
+	background-color: black;
+	font-size: 13px;
+	color: white; 
+	
+	/*padding-top: 10px;*/
+
+
+}
+
+td {
+	padding: 12px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: azure;
+}
+
+
+body{
+	background-color: #F2F2F2;
+}
+
+p {
+	
+	column-count: 4;
+	text-align: justify;
+	column-gap: 15px;
+	column-rule: 2px double black;
+}
+
+
+footer {
+	color: white;
+	font-size: 12px;
+	background-color: black;
+	text-align: center;
+	padding-bottom: 3px;
+	
+}
